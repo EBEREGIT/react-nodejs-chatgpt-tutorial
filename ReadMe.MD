@@ -15,7 +15,7 @@ This is a fullstack chatbot created with React, Nodejs, OpenAi, and ChatGPT whil
 
 ## Installation
 * Clone this repo `https://github.com/EBEREGIT/react-nodejs-chatgpt-tutorial`
-* Navigate into the repo `cd nodejs-chatgpt-tutorial`
+* Navigate into the repo `cd react-nodejs-chatgpt-tutorial`
 
 * Navigate into the `backend` folder `cd backend`
 * Install the dependencies ``npm install``
